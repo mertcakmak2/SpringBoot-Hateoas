@@ -1,4 +1,4 @@
-package com.example.hateoas.model.controller;
+package com.example.hateoas.controller;
 
 import com.example.hateoas.model.User;
 import com.example.hateoas.service.UserService;
